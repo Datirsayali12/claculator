@@ -119,7 +119,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '/var/www/mysite/assets/'
+STATIC_ROOT = '/var/www/core/assets/'
 
 # STATIC_ROOT=""
 
